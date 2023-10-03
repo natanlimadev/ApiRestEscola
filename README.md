@@ -15,6 +15,6 @@ Utilize esses comandos:
 # Instalar dependencias (apenas uma vez)
 npm install
 
-# Rodar o server local na porta localhost:
+# Rodar o server local na porta localhost:3000
 npm run dev
 ```
