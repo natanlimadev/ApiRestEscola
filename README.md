@@ -9,7 +9,7 @@ Todos os dados presentes nesse projeto são apenas para modelos não utilizei da
 ## Setup
 
 Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+Utilize esses comandos:
 
 ```bash
 # Instalar dependencias (apenas uma vez)
