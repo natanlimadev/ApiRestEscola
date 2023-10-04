@@ -36,51 +36,51 @@ npm run dev
 
 ## Listar Instrutores pelo Identificador(ID)
 
-[Listar pelo ID](https://i.imgur.com/ncnRzV1.png)
-[Retorno](https://i.imgur.com/XNmUZkR.png)
+![Listar pelo ID](https://i.imgur.com/ncnRzV1.png)
+![Retorno](https://i.imgur.com/XNmUZkR.png)
 
 ## Cadastrar Novo Instrutor
 
-[Cadastrar](https://i.imgur.com/tBVS45G.png)
-[Retorno](https://i.imgur.com/nOefnbY.png)
+![Cadastrar](https://i.imgur.com/tBVS45G.png)
+![Retorno](https://i.imgur.com/nOefnbY.png)
 
 ## Atualizar o cadastro do Instrutor com novos dados
 
-[Atualizar](https://i.imgur.com/1jgrVjF.png)
-[Retorno](https://i.imgur.com/Zd3mVNU.png)
+![Atualizar](https://i.imgur.com/1jgrVjF.png)
+![Retorno](https://i.imgur.com/Zd3mVNU.png)
 
 ## Atualizar o Status do Instrutor (Ativo ou Inativo)
 
-[Atualizar](https://i.imgur.com/aWubYLe.png)
-[Retorno](https://i.imgur.com/Zd3mVNU.png)
+![Atualizar](https://i.imgur.com/aWubYLe.png)
+![Retorno](https://i.imgur.com/Zd3mVNU.png)
 
 ## Excluir cadastro instrutor
 
-[Excluir](https://i.imgur.com/P0xuy8k.png)
-[Retorno](https://i.imgur.com/Zd3mVNU.png)
+![Excluir](https://i.imgur.com/P0xuy8k.png)
+![Retorno](https://i.imgur.com/Zd3mVNU.png)
 
 ## Casdastrar Aula por Instrutor
 
-[Cadastro](https://i.imgur.com/e6WuBJX.png)
-[Retorno](https://i.imgur.com/lmq1oA0.png)
+![Cadastro](https://i.imgur.com/e6WuBJX.png)
+![Retorno](https://i.imgur.com/lmq1oA0.png)
 
 ## Listar as Aulas
 
-[Listar](https://i.imgur.com/qhfYko9.png)
-[Retorno](https://i.imgur.com/68W3TvN.png)
+![Listar](https://i.imgur.com/qhfYko9.png)
+![Retorno](https://i.imgur.com/68W3TvN.png)
 
 ## Listar Aula por Identificador
 
-[Listar](https://i.imgur.com/vC19aZZ.png)
-[Retorno](https://i.imgur.com/I4Da95b.png)
+![Listar](https://i.imgur.com/vC19aZZ.png)
+![Retorno](https://i.imgur.com/I4Da95b.png)
 
 ## Listar Aulas por instrutores
 
-[Listar](https://i.imgur.com/MDhrD3O.png)
-[Retorno](https://i.imgur.com/nr3mOmY.png)
+![Listar](https://i.imgur.com/MDhrD3O.png)
+![Retorno](https://i.imgur.com/nr3mOmY.png)
 
 ## Lista com todas as rotas no Insomnia
 
-[Lista](https://i.imgur.com/7wpEQoJ.png)
+![Lista](https://i.imgur.com/7wpEQoJ.png)
 
 ## [Obrigado](https://github.com/natanlimadev)!
