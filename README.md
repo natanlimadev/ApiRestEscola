@@ -29,6 +29,8 @@ npm run dev
 
 - Uma vez que as ferramentas estão instaladas e o projeto clonado vamos criar as requisições HTTP no Insomnia.
 
+- Abaixo estão as imagens com os as rotas a serem utilizadas e com os retornos esperados na API.
+
 ## Listar Instrutores
 
 ![Listar Instrutores](https://i.imgur.com/gn8JAZW.png)
