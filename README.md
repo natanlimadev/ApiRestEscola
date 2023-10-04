@@ -4,7 +4,7 @@
 
 Para poder rodar em sua maquina e testar a aplicação segue um pequeno passo a passo!
 
-Todos os dados presentes nesse projeto são apenas para modelos não utilizei dados reais..
+Todos os dados presentes nesse projeto são apenas para testes não utilizei dados reais..
 
 ## Setup(instalação)
 
@@ -31,8 +31,8 @@ npm run dev
 
 ## Listar Instrutores
 
-[Listar Instrutores](https://i.imgur.com/gn8JAZW.png)
-[Retorno Esperado](https://i.imgur.com/T06jWDW.png)
+![Listar Instrutores](https://i.imgur.com/gn8JAZW.png)
+![Retorno Esperado](https://i.imgur.com/T06jWDW.png)
 
 ## Listar Instrutores pelo Identificador(ID)
 
