@@ -1,11 +1,10 @@
 {
-  "name": "cloneprimeiraapirest",
+  "name": "apirestescola",
   "version": "1.0.0",
-  "description": "",
+  "description": "**Projeto criado dentro das aulas da Cubos Academy aonde aprendemos o conceitos de criação de uma Api Rest.**",
   "main": "index.js",
   "scripts": {
-    "dev":"node --watch ./src/index.js"
-   
+    "dev": "node --watch ./src/index.js"
   },
   "keywords": [],
   "author": "",
